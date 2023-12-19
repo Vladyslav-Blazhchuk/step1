@@ -52,7 +52,7 @@ body {
 }
 
 .dropdown-label::after {
-  content: url(/img/arrow-explore.svg);
+  content: url(./img/arrow-explore.svg);
 }
 
 .dropdown-list {
@@ -760,7 +760,7 @@ body {
 .list-txt::before,
 .list-txt-2::before {
   content: '';
-  background: url(/img/Vector-white.svg) no-repeat 50% 50% #0F8277;
+  background: url(./img/Vector-white.svg) no-repeat 50% 50% #0F8277;
   border-radius: 500px;
   position: absolute;
   top: 20%;
@@ -771,7 +771,7 @@ body {
 }
 
 .list-txt-2::before {
-  background: url(/img/Vector-green.svg) no-repeat 50% 50% #fff;
+  background: url(./img/Vector-green.svg) no-repeat 50% 50% #fff;
 }
 
 .list-txt-2 {
@@ -1007,19 +1007,19 @@ body {
 }
 
 .inst {
-  background-image: url(/img/insta.svg);
+  background-image: url(./img/insta.svg);
   width: 32px;
   height: 32px;
 }
 
 .fb {
-  background-image: url(/img/fb.svg);
+  background-image: url(./img/fb.svg);
   width: 32px;
   height: 32px;
 }
 
 .in {
-  background-image: url(/img/in.svg);
+  background-image: url(./img/in.svg);
   width: 32px;
   height: 32px;
 }
